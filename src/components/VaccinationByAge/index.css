@@ -1,0 +1,15 @@
+/* Write your CSS here */
+.vg-container {
+  background-color: #1c1c2b;
+  padding: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 20px;
+}
+
+.title {
+  font-family: 'roboto';
+  color: #cbd5e1;
+  font-size: 24px;
+  font-weight: 700;
+}
